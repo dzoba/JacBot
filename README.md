@@ -1,6 +1,6 @@
 # JacBot
 
-The effevescent Campfire attendant for the Trifecta.
+The effervescent Campfire attendant for the Trifecta.
 
 
 # Hubot
