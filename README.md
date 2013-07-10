@@ -1,3 +1,8 @@
+# JacBot
+
+The effevescent Campfire attendant for the Trifecta.
+
+
 # Hubot
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
