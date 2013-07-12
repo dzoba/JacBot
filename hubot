@@ -1,0 +1,7 @@
+#! /bin/bash
+
+export HUBOT_CAMPFIRE_ACCOUNT="bonpanda"
+export HUBOT_CAMPFIRE_TOKEN="483bb6f9d944cc67745b6b1686cc2a702203590b"
+export HUBOT_CAMPFIRE_ROOMS="450530"
+
+/home/chris/JacBot/bin/hubot --name jacbot --adapter campfire
