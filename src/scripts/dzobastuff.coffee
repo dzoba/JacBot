@@ -20,3 +20,6 @@ module.exports = (robot) ->
 
   robot.hear /mind(.*)(blown|blowing)/i, (msg) ->
     msg.send "http://i.imgur.com/X8T4ola.gif"
+
+  robot.hear /Well well well/i, (msg) ->
+    msg.send "Look what the cat dragged in..."
